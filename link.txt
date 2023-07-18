@@ -1,0 +1,21 @@
+http://localhost/S5025307/public_html/php/index.php
+
+
+Admin : sportsunlimitedsaw@gmail.com
+pwAdmin : Admin123!4
+
+
+user1 : user@gmail.com
+pwUser : User123!
+
+
+chellakkudam@gmail.com
+Ciao123!
+
+
+
+
+---------------------------------------------------------------------------------------------
+per il test : 
+
+http://localhost/S5025307/public_html/php/test/test_all.php
